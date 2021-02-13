@@ -6,6 +6,6 @@ namespace Projeto.Data.Entities
 {
     public class CodeGit
     {
-        public static string Url = "https://github.com/edersonmat/DesafioCalculadoraDeJuros";
+        public static string Url = "https://github.com/edersonmat/ProjetoCalcJuros";
     }
 }
